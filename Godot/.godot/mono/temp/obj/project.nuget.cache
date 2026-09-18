@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORZorHsg9jM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BFW\\Documents\\GitHub\\Quickly\\Godot\\Quickly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BFW\\.nuget\\packages\\godot.sourcegenerators\\4.7.2\\godot.sourcegenerators.4.7.2.nupkg.sha512",
+    "C:\\Users\\BFW\\.nuget\\packages\\godotsharp\\4.7.2\\godotsharp.4.7.2.nupkg.sha512",
+    "C:\\Users\\BFW\\.nuget\\packages\\godotsharpeditor\\4.7.2\\godotsharpeditor.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

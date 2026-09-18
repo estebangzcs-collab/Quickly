@@ -1,0 +1,8 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1789759551
+icon.svg::CompressedTexture2D::4872605430932221369::1789758078::1789758097::1::::<><><>0<>0<>0be9c2ceba71601aaa45509c00708817<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Main.tscn::PackedScene::6422615994254347975::1789759302::0::1::::<><><>0<>0<><>::uid://cq6i65rovo27n::::res://Scripts/ShipController.cs<>uid://ccfsq7248kvb2::::res://Scripts/CameraFollow.cs
+README_GODOT.md::TextFile::-1::1789758470::0::1::::<><><>0<>0<><>::
+::res://Scripts/::1789758097
+CameraFollow.cs::CSharpScript::4924664145823908049::1789758071::0::1::::<>Camera3D<><>0<>0<><>::
+ShipController.cs::CSharpScript::5960401274150677753::1789758068::0::1::::<>Node3D<><>0<>0<><>::
