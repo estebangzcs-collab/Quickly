@@ -1,8 +1,0 @@
-# Godot .godot/ cache, importados
-.godot/
-# Build C#
-bin/
-obj/
-# VS / Rider
-.vs/
-*.user
